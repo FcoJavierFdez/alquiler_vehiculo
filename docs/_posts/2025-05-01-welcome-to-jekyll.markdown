@@ -56,7 +56,7 @@ categories: jekyll update
 
 ### MAPA DEL MODULO
 
-![mapa del modulo](../_img/MapaModulo.drawio.png)
+![mapa del modulo](../img/MapaModulo.drawio.png)
 
 ### DEPENDENCIAS DE OTROS MODULOS
 
@@ -93,35 +93,35 @@ categories: jekyll update
 
 #### _Pantalla login_
 
-![Pantalla 1](../_img/Pantalla1.png)
+![Pantalla 1](../img/Pantalla1.png)
 
 #### _Pantalla Visualizar coches_
 
-![Pantalla 2](../_img/Pantalla2.png)
+![Pantalla 2](../img/Pantalla2.png)
 
 #### _Pantalla Creación Nuevo Alquiler_
 
-![Pantalla 3](../_img/Pantalla3.png)
+![Pantalla 3](../img/Pantalla3.png)
 
 #### _Pantalla Selección Equipamientos Adicionales_
 
-![Pantalla 4](../_img/Pantalla4.png)
+![Pantalla 4](../img/Pantalla4.png)
 
 #### _Pantalla Gestión Datos Cliente_
 
-![Pantalla 5](../_img/Pantalla5.png)
+![Pantalla 5](../img/Pantalla5.png)
 
 #### _Pantalla Asignación del vehiculo al contrato_
 
-![Pantalla 6](../_img/Pantalla6.png)
+![Pantalla 6](../img/Pantalla6.png)
 
 #### _Pantalla Factura Alquiler_
 
-![Pantalla 7](../_img/Pantalla7.png)
+![Pantalla 7](../img/Pantalla7.png)
 
 #### _Pantalla Envío Encuesta_
 
-![Pantalla 8](../_img/Pantalla8.png)
+![Pantalla 8](../img/Pantalla8.png)
 
 
 ### CONTROL DE ACCESOS. ¿Qué grupos existen?¿Quién puede acceder o no al módulo?¿ A qué modelos? ¿a qué registros? ¿Con qué permisos?
@@ -169,37 +169,37 @@ Tras finalizar el alquiler el cliente recibe una encuesta. Los responsables anal
 
 #### *Inicio de sesión y autenticación*
 
-![Diagrama 1](../_img/Diagrama1.png)
+![Diagrama 1](../img/Diagrama1.png)
 
 #### *Visualización de vehículos*
 
-![Diagrama 2](../_img/Diagrama2.png)
+![Diagrama 2](../img/Diagrama2.png)
 
 #### *Creación de nuevo alquiler*
 
-![Diagrama 3](../_img/Diagrama3.png)
+![Diagrama 3](../img/Diagrama3.png)
 
 #### *Selección de equipamientos adicionales*
 
-![Diagrama 4](../_img/Diagrama4.png)
+![Diagrama 4](../img/Diagrama4.png)
 
 #### *Gestión de datos del cliente*
 
-![Diagrama 5](../_img/Diagrama5.png)
+![Diagrama 5](../img/Diagrama5.png)
 
 #### *Asignación y control de vehículos*
 
-![Diagrama 6](../_img/Diagrama6.png)
+![Diagrama 6](../img/Diagrama6.png)
 
 #### *Facturación y pagos*
 
-![Diagrama 7](../_img/Diagrama7.png)
+![Diagrama 7](../img/Diagrama7.png)
 
 #### *Envío y respuesta de encuesta*
 
-![Diagrama 8](../_img/Diagrama8.png)
+![Diagrama 8](../img/Diagrama8.png)
 
 
 ### ESQUEMA RELACIONAL DE LAS NUEVAS TABLAS EN LA BASE DE DATOS Y RELACION CON OTRAS EXISTENTES
-![Diagrama ER](../_img/DiagramaER.png)
+![Diagrama ER](../img/DiagramaER.png)
 
