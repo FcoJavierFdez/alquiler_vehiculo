@@ -8,7 +8,7 @@ categories: jekyll update
 
 ### NOMBRE DEL MODULO
 
-Contrato de alquiler de vehículos
+>Contrato de alquiler de vehículos
 
 ### DESCRIPCION CORTA
 >*Este módulo permite gestionar la creación, firma y control de contratos de alquiler de vehículos de manera automatizada. Facilita la asignación de vehículos, la firma digital, la facturación y el seguimiento de pagos, optimizando la experiencia del cliente y la administración de la flota.*
@@ -128,48 +128,41 @@ Contrato de alquiler de vehículos
 
 #### *Inicio de sesión y autenticación*
 
-Todos los usuarios acceden al sistema mediante credenciales según su perfil.
+>Todos los usuarios acceden al sistema mediante credenciales según su perfil.
 
 #### *Visualización de vehículos*
 
-Implicados: Cliente, Atención al cliente, Gestor de Oficina y Gestor de Flota
-
+>Implicados: Cliente, Atención al cliente, Gestor de Oficina y Gestor de Flota
 Los clientes pueden ver los tipos de vehículos disponibles. Internamente, se consulta la disponibilidad para reservas o gestión de flota.
 
 #### *Creación de nuevo alquiler*
 
-Implicados: Atención al cliente y gestor de Oficina
-
+>Implicados: Atención al cliente y gestor de Oficina
 Atención al cliente puede iniciar la reserva y recopilar datos. El gestor de Oficina formaliza el alquiler.
 
 #### *Selección de equipamientos adicionales*
 
-Implicado: Gestor de Oficina
-
+>Implicado: Gestor de Oficina
 Con la elección del cliente en función de sus necesidades
 
 #### *Gestión de datos del cliente*
 
-Implicados: Cliente, atención al cliente y gestor de Oficina
-
+>Implicados: Cliente, atención al cliente y gestor de Oficina
 El cliente puede editar sus propios datos. El gestor los registra o valida durante el proceso. Atención al cliente puede consultar contratos historiales y ver datos del cliente.
 
 #### *Asignación y control de vehículos*
 
-Implicado: Gestor de Oficina.
-
+>Implicado: Gestor de Oficina.
 El Gestor de Oficina asigna el vehículo al contrato y genera un contrato de alquiler con precios desglosados y total.
 
 #### *Facturación y pagos*
 
-Implicados: Cliente, Atención al cliente y gestor de Oficina
-
+>Implicados: Cliente, Atención al cliente y gestor de Oficina
 El cliente realiza el pago. Atención al cliente verifica y el gestor supervisa el proceso y confirma la factura.
 
 #### *Envío y respuesta de encuesta*
 
-Implicados: Cliente y responsables
-
+>Implicados: Cliente y responsables
 Tras finalizar el alquiler el cliente recibe una encuesta. Los responsables analizan los resultados.
 
 ### DIAGRAMAS DE FLUJOS FUNCIONALES
